@@ -1,0 +1,241 @@
+Species,Mass,Length,Habitat,Dietti
+Acomys cahirinus,50.0,120.0,Temperate,Omnivore
+Aconaemys fuscus,50.0,120.0,Temperate, Folivore
+Akodon azarae,19.0,182.5,Tropical,Omnivore
+Akodon montensis,42.0,113.0,Temperate,Omnivore
+Allactaga euphratica,35.9,270.0,Temperate, Granivore
+Allactodipus bobrinskii,65.0,284.0,Temperate,Omnivore
+Ammospermophilus harrisii,122.0,237.4,Terrestrial,Carnivore
+Ammospermophilus interpres,102.5,226.0,Temperate, Frugivore
+Ammospermophilus leucurus,105.0,211.0,Temperate,Omnivore
+Ammospermophilus nelsoni,155.0,249.0,Temperate,Carnivore
+Anomalurus beecrofti,650.0,280.0,Tropical, Frugivore
+Arborimus longicaudus,37.0,170.0,Temperate, Folivore
+Arvicanthis niloticus,118.0,130.0,Tropical, Folivore
+Arvicola amphibius,160.0,170.0,Temperate, Folivore
+Atherurus africanus,2900.0,482.5,, Folivore
+Atherurus macrourus,2650.0,482.5,Tropical, Folivore
+Blarinomys breviceps,12.0,147.0,Tropical,Carnivore
+Brachytarsomys albicauda,210.0,455.0,Tropical, Frugivore
+Callosciurus finlaysonii,278.0,201.1,Tropical, Folivore
+Callosciurus notatus,209.5,366.5,Tropical,Omnivore
+Calomyscus bailwardi,20.4,166.5,Temperate, Folivore
+Castor canadensis,22500.0,1035.0,Temperate, Lignivore
+Castor fiber,24000.0,1040.0,Temperate, Folivore
+Cavia aperea,637.0,274.0,Tropical, Folivore
+Cavia intermedia,622.5,300.0,Tropical, Folivore
+Cavia porcellus,900.0,228.5,Terrestrial, Folivore
+Chaetodipus baileyi,31.0,208.0,Terrestrial, Granivore
+Chaetodipus californicus,23.0,207.0,Temperate, Granivore
+Chaetodipus fallax,20.0,185.0,Temperate, Granivore
+Chaetodipus formosus,13.75,88.5,Temperate, Granivore
+Chaetodipus nelsoni,14.25,180.5,Temperate, Granivore
+Chaetodipus penicillatus,16.5,178.0,Temperate, Folivore
+Chaetomys subspinosus,1300.0,418.5,Tropical, Frugivore
+Coendou prehensilis,3500.0,450.0,Tropical, Frugivore
+Cratogeomys neglectus,395.0,315.0,Tropical, Lignivore
+Cricetomys gambianus,1230.0,777.5,Terrestrial,Omnivore
+Cryptomys damarensis,144.0,200.0,Tropical, Folivore
+Ctenomys conoveri,900.0,403.3,Tropical, Folivore
+Ctenomys fulvus,360.0,317.0,Temperate, Eats sap or other plant foods
+Ctenomys pearsoni,200.0,190.0,Tropical, Folivore
+Ctenomys rionegrensis,400.0,200.0,Tropical, Folivore
+Ctenomys talarum,133.0,233.4,Temperate, Folivore
+Cuniculus paca,9500.0,710.0,Tropical, Folivore
+Cuniculus taczanowskii,9000.0,700.0,Temperate, Frugivore
+Cynomys leucurus,1139.0,357.0,Temperate, Folivore
+Cynomys ludovicianus,1190.0,383.5,Temperate, Folivore
+Cynomys mexicanus,1150.0,300.0,Tropical, Folivore
+Dasyprocta mexicana,3500.0,526.5,Tropical, Frugivore
+Dasyprocta ruatanica,2300.0,480.0,Tropical, Frugivore
+Dendromus mystacalis,12.0,70.0,Temperate,Omnivore
+Dipodomys compactus,52.0,234.5,Temperate, Granivore
+Dipodomys deserti,115.5,336.5,Terrestrial, Folivore
+Dipodomys elator,80.7,303.0,Temperate, Granivore
+Dipodomys microps,55.0,270.0,Temperate, Folivore
+Dipodomys venustus,82.5,315.85,Temperate, Granivore
+Dolichotis patagonum,8120.0,707.2,Temperate, Folivore
+Dolichotis salinicola,2050.0,452.5,Temperate, Folivore
+Dryomys nitedula,26.0,105.0,Temperate,Omnivore
+Echimys semivillosus,300.0,234.0,Tropical, Frugivore
+Eliomys quercinus,82.5,250.0,Temperate,Omnivore
+Eliurus minor,35.1,242.8,Tropical, Frugivore
+Erethizon dorsatum,9500.0,750.0,Temperate, Granivore
+Funambulus pennantii,147.7,293.0,Tropical,Omnivore
+Geomys arenarius,209.5,254.0,Temperate, Folivore
+Georychus capensis,181.0,177.5,Temperate, Eats sap or other plant foods
+Gerbillus cheesmani,36.5,214.5,Temperate, Granivore
+Glaucomys sabrinus,132.17,308.5,Temperate, Granivore
+Glaucomys volans,64.0,242.5,Temperate,Carnivore
+Glirulus japonicus,27.0,120.0,Temperate,Omnivore
+Glis glis,135.0,175.0,Temperate, Frugivore
+Graphiurus murinus,28.5,117.5,Temperate,Carnivore
+Graphiurus surdus,25.0,99.0,Tropical,Omnivore
+Gymnuromys roberti,127.5,347.5,Tropical, Frugivore
+Heliosciurus gambianus,295.0,181.5,Tropical,Omnivore
+Heterocephalus glaber,35.3,156.0,Tropical, Eats sap or other plant foods
+Hoplomys gymnurus,520.0,270.0,Tropical, Frugivore
+Hydrochoerus hydrochaeris,50500.0,1200.0,Temperate, Folivore
+Hypogeomys antimena,1200.0,300.0,Temperate, Frugivore
+Hystrix pumila,4600.0,675.0,Tropical, Folivore
+Hystrix sumatrae,4700.0,505.0,Tropical, Frugivore
+Idiurus macrotis,30.0,208.0,Tropical, Frugivore
+Idiurus zenkeri,17.4,69.0,Tropical, Frugivore
+Jaculus jaculus,55.0,100.0,Temperate, Granivore
+Jaculus orientalis,139.1,127.5,Temperate, Granivore
+Kannabateomys amblyonyx,475.0,2885.0,Tropical, Folivore
+Kerodon rupestris,950.0,300.0,Tropical, Folivore
+Lagurus lagurus,28.4,100.0,Temperate, Folivore
+Lemmiscus curtatus,27.5,133.0,Temperate, Folivore
+Lemmus lemmus,75.0,127.5,Temperate, Folivore
+Lemniscomys barbarus,31.0,225.0,Temperate, Granivore
+Leporillus conditor,300.0,260.0,Temperate, Folivore
+Marmota bobak,7300.0,532.5,Temperate, Folivore
+Marmota broweri,3410.0,592.0,Polar,Carnivore
+Marmota caligata,9000.0,500.0,Temperate, Folivore
+Marmota camtschatica,4750.0,480.0,Polar, Folivore
+Marmota flaviventris,3350.0,585.0,Terrestrial, Folivore
+Marmota himalayana,6600.0,572.5,Temperate, Folivore
+Marmota monax,4000.0,545.0,Temperate, Folivore
+Marmota olympus,7050.0,710.0,Temperate, Folivore
+Marmota sibirica,7000.0,550.0,Temperate, Folivore
+Marmota vancouverensis,5000.0,675.0,Temperate, Folivore
+Meriones crassus,69.5,251.2,Tropical, Folivore
+Mesocricetus auratus,112.5,132.5,Temperate,Omnivore
+Microcavia australis,280.0,220.0,Temperate, Folivore
+Microtus californicus,73.0,176.5,Temperate, Folivore
+Microtus longicaudus,52.5,200.0,Temperate, Folivore
+Microtus ochrogaster,50.0,152.5,Temperate, Folivore
+Microtus oeconomus,50.0,172.0,Temperate, Folivore
+Microtus pennsylvanicus,43.67,161.5,Temperate, Folivore
+Microtus pinetorum,25.5,101.5,Temperate, Granivore
+Microtus xanthognathus,150.0,206.0,Terrestrial, Folivore
+Mus musculus,21.0,80.0,Temperate,Omnivore
+Muscardinus avellanarius,20.0,140.0,Temperate, Granivore
+Myocastor coypus,7500.0,523.5,Tropical, Folivore
+Myodes californicus,27.5,150.0,Temperate,Mycophage
+Myodes gapperi,20.57,133.5,Temperate,Omnivore
+Myodes glareolus,18.5,105.0,Temperate, Folivore
+Myodes rutilus,30.0,144.0,Temperate, Folivore
+Myoprocta acouchy,2500.0,427.0,Tropical, Frugivore
+Myoprocta pratti,1000.0,340.5,Tropical, Frugivore
+Myopus schisticolor,32.5,97.5,Temperate, Folivore
+Myosciurus pumilio,16.5,67.5,Tropical, Lignivore
+Mysateles prehensilis,1650.0,650.0,Tropical, Folivore
+Mystromys albicaudatus,87.0,225.0,Temperate,Omnivore
+Napaeozapus insignis,26.0,230.5,Temperate,Omnivore
+Necromys lasiurus,35.0,178.0,Tropical, Granivore
+Nectomys squamipes,216.0,208.0,Tropical,Carnivore
+Neotoma albigula,197.0,328.0,Temperate, Folivore
+Neotoma floridana,275.0,380.0,Temperate, Folivore
+Neotoma lepida,236.0,344.0,Temperate, Folivore
+Neotoma macrotis,204.0,188.1,Temperate, Lignivore
+Neotoma magister,323.5,381.0,Temperate, Folivore
+Neotoma mexicana,162.5,300.0,Temperate, Folivore
+Neotomodon alstoni,50.0,115.0,Terrestrial,Omnivore
+Neusticomys monticolus,40.0,208.3,Tropical,Carnivore
+Notomys alexis,35.0,134.0,Temperate,Omnivore
+Ochrotomys nuttalli,22.5,83.0,Temperate, Granivore
+Octodon degus,235.0,382.5,Temperate, Folivore
+Ondatra zibethicus,1135.8,515.0,Temperate,
+Onychomys arenicola,25.75,146.0,Temperate,Carnivore
+Orthogeomys cavator,700.0,247.5,Tropical, Folivore
+Orthogeomys grandis,830.0,255.0,Tropical, Frugivore
+Oryzomys albigularis,61.9,153.0,Tropical, Folivore
+Oryzomys galapagoensis,64.5,113.0,Tropical,Omnivore
+Pachyuromys duprasi,36.5,108.0,Temperate, Granivore
+Pappogeomys bulleri,225.0,214.5,Tropical, Folivore
+Paradipus ctenodactylus,140.0,132.5,Temperate, Folivore
+Paraxerus flavovittis,160.0,175.0,Tropical, Frugivore
+Perognathus amplus,11.7,73.0,Temperate, Granivore
+Perognathus fasciatus,11.0,134.0,Temperate, Folivore
+Perognathus flavescens,11.5,132.5,Temperate, Granivore
+Perognathus inornatus,9.5,139.5,Temperate, Granivore
+Peromyscus attwateri,30.0,202.5,Temperate,Omnivore
+Peromyscus aztecus,29.0,228.5,Temperate,Omnivore
+Peromyscus boylii,29.0,194.0,Temperate,Omnivore
+Peromyscus californicus,43.8,252.5,Temperate, Frugivore
+Peromyscus crinitus,17.0,175.0,Temperate,Omnivore
+Peromyscus eremicus,25.0,85.0,Temperate,Omnivore
+Peromyscus gossypinus,31.5,174.0,Temperate,Omnivore
+Peromyscus keeni,20.0,208.5,Temperate, Granivore
+Peromyscus leucopus,23.0,177.5,Temperate,Omnivore
+Peromyscus maniculatus,17.0,170.5,Temperate,Omnivore
+Peromyscus polionotus,12.5,130.0,Temperate, Granivore
+Peromyscus truei,20.0,201.0,Temperate, Granivore
+Petaurista elegans,1250.0,445.0,Temperate,Omnivore
+Petaurista leucogenys,1150.0,445.0,Temperate, Folivore
+Petromus typicus,200.0,325.0,Temperate, Folivore
+Petromyscus collinus,18.2,162.0,Tropical,Omnivore
+Phloeomys cumingi,1770.0,406.0,Tropical, Folivore
+Phodopus campbelli,23.4,102.0,Temperate, Folivore
+Platacanthomys lasiurus,75.0,171.0,Tropical, Frugivore
+Psammomys obesus,166.5,157.5,Temperate, Folivore
+Pteromyscus pulverulentus,,,Tropical, Folivore
+Rattus exulans,60.0,132.5,Temperate,Omnivore
+Rattus norvegicus,400.0,399.0,Temperate,Omnivore
+Rattus rattus,200.0,190.0,Temperate, Granivore
+Ratufa indica,1750.0,355.5,Tropical,Omnivore
+Reithrodon auritus,80.0,260.0,Temperate, Folivore
+Reithrodontomys megalotis,12.5,140.0,Temperate, Granivore
+Reithrodontomys montanus,9.5,116.0,Terrestrial,Omnivore
+Reithrodontomys raviventris,11.01,146.5,Temperate, Folivore
+Rhinosciurus laticaudatus,221.0,341.0,Tropical,Carnivore
+Rhombomys opimus,285.0,270.0,Temperate, Folivore
+Saccostomus campestris,62.5,141.0,Temperate, Granivore
+Salpingotus pallidus,9.8,55.0,Temperate,Omnivore
+Sciurus aberti,620.0,515.0,Temperate, Folivore
+Sciurus carolinensis,540.33,452.5,Temperate,Omnivore
+Sciurus granatensis,374.0,425.0,Tropical, Frugivore
+Sciurus niger,800.0,595.0,Temperate,Omnivore
+Sciurus oculatus,638.0,543.0,Temperate, Frugivore
+Sciurus variegatoides,668.5,278.5,Tropical, Frugivore
+Sekeetamys calurus,64.0,113.0,Temperate,Omnivore
+Sigmodon arizonae,172.0,274.5,Temperate, Folivore
+Sigmodon fulviventer,210.0,246.5,Temperate,Omnivore
+Sigmodon hispidus,159.0,295.0,Temperate, Folivore
+Spalax ehrenbergi,325.0,210.0,Temperate, Granivore
+Spermophilus beecheyi,509.0,419.0,Temperate, Granivore
+Spermophilus brunneus,199.5,233.5,Temperate, Granivore
+Spermophilus elegans,326.02,317.5,Temperate, Folivore
+Spermophilus lateralis,257.0,265.0,Temperate,Omnivore
+Spermophilus parryii,,390.0,Polar,Carnivore
+Spermophilus saturatus,275.0,305.0,Temperate, Folivore
+Spermophilus tridecemlineatus,125.0,250.0,Temperate,Omnivore
+Spermophilus variegatus,725.0,485.0,Temperate,Omnivore
+Spermophilus washingtoni,210.0,215.0,Temperate, Folivore
+Sphiggurus insidiosus,1350.0,700.0,Tropical, Folivore
+Sphiggurus mexicanus,2000.0,675.0,Tropical, Folivore
+Sundasciurus hippurus,340.0,232.5,Tropical, Frugivore
+Synaptomys cooperi,35.0,125.0,Temperate, Folivore
+Tamias alpinus,39.0,184.5,Temperate, Granivore
+Tamias amoenus,51.5,213.0,Temperate,Omnivore
+Tamias canipes,70.0,237.0,Temperate,Omnivore
+Tamias cinereicollis,62.5,225.0,Temperate, Granivore
+Tamias dorsalis,70.0,230.0,Temperate, Granivore
+Tamias merriami,74.8,134.6,Temperate, Granivore
+Tamias minimus,47.5,203.5,Temperate, Granivore
+Tamias obscurus,73.0,224.0,Temperate, Frugivore
+Tamias palmeri,59.7,216.5,Temperate,Omnivore
+Tamias panamintinus,90.0,163.0,Temperate, Granivore
+Tamias quadrimaculatus,89.5,237.5,Temperate,Omnivore
+Tamias quadrivittatus,54.0,121.9,Temperate, Granivore
+Tamias sibiricus,100.0,145.0,Temperate,Omnivore
+Tamias speciosus,59.0,212.0,Temperate,Omnivore
+Tamias striatus,90.5,260.5,, Granivore
+Tamias umbrinus,59.3,225.9,Temperate,Omnivore
+Tamiasciurus douglasii,226.5,312.5,Temperate, Granivore
+Tamiasciurus hudsonicus,212.97,327.5,Temperate, Granivore
+Tamiops swinhoei,60.0,100.0,Tropical, Granivore
+Tatera indica,163.5,160.0,Temperate,Omnivore
+Thallomys paedulcus,68.0,141.5,Temperate, Granivore
+Thomomys bulbivorus,550.0,325.0,Temperate, Folivore
+Thomomys talpoides,110.0,212.5,Temperate, Folivore
+Thryonomys gregorianus,5080.0,380.0,Tropical, Folivore
+Thryonomys swinderianus,4000.0,480.0,Tropical, Folivore
+Trichys fasciculata,1900.0,379.5,Tropical, Folivore
+Xerus erythropus,622.5,333.0,Tropical,Omnivore
+Xerus inauris,528.5,455.5,Tropical,Omnivore
+Zapus hudsonius,18.25,210.0,Temperate, Granivore
+Zenkerella insignis,200.0,220.0,Tropical, Lignivore
+Zygodontomys brevicauda,80.0,125.0,Tropical,Omnivore
